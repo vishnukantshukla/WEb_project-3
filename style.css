@@ -1,0 +1,221 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+    /* background-color: black; */
+}
+h3  {
+        color: white;
+        padding-top: 26px;
+        padding-left: 15px;
+        font-size: xx-large;
+    }
+header{
+    display: flex;
+    background-color: black;
+    /* position: fixed; */
+    margin-top: 10px;
+}
+.logo img{
+    padding-left: 243px;
+    padding-top: 10px;
+   }
+.navbar{
+       padding-left: 520px;
+       padding-top: 30px;
+       font-size: larger;
+       height: 90px;
+}
+a{
+    padding-left: 15px;
+
+    color: white;
+    text-decoration: none;  
+}
+.logo img{
+    height: 74px;
+   
+}
+a:hover{
+  
+    color: green;
+}
+
+
+.div_1{
+    background: url("https://img.freepik.com/premium-photo/spotify-logo-green-wall-background-with-hard-shadow-space-text-graphics-3d-rendering_494516-950.jpg?w=2000");
+    display: flex;
+    align-items: center;
+
+}
+.div_1{
+   color: white;
+   font-size: 70px;
+}
+.div_1 div .home1{
+   background-color: white;
+   height: 200px;
+   border: 2px solid red;
+}
+.div_1 .home1 img{
+   height: 700px;
+   width: 400px;
+}
+._1{
+    height: 650px;
+    width: 1530px;
+    background-image: url("/images/img5.jpg");
+    display: flex;
+}
+#_1{
+    padding: 54px;
+    padding-left: 239px;
+    width: 647px;
+}
+.center_2{
+    height: 200px;
+    width: 300px;
+}
+#_2{
+    margin-top: 114px;
+    font-size: 60px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#_3{
+    height: 56px;
+    width: 186px;
+    font-size: 18px;
+}
+.nexthome h2{
+    padding-top: 40px;
+    text-align: center;
+   font-size: 60px;
+   /* color: white; */
+}
+.container{
+    display: flex;
+   
+    justify-content: center;
+}
+.menu h2{
+    color: black;
+    text-align: center;
+}
+.box {
+    /* border: 2px solid orange; */
+    height: 400px;
+}
+.box h4 {
+   padding-top: 27px;
+   font-size: 30px;
+   font-weight: bolder;
+}
+.box p {
+    padding-top: 15px;
+    font-size: larger;
+}
+.menu h1{
+     text-align: center;
+}
+.container{
+     display: grid;
+     grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
+     padding: 5rem;
+     margin: 5px;
+}
+.container .box img{
+   height: 200px;
+   width: 200px;
+}
+.box {
+     /* border: 2px solid orange; */
+     text-align:center;
+} 
+.its_free{
+    height: 500px;
+    width: 1520px;
+    border: 2px solid black;
+}
+.its{
+    height: 400px;
+    width: 400px;
+    padding: 250px;
+    padding-top: 150px;
+    /* align-items: center; */
+}
+#_it{
+    font-size: 50px;
+    padding-left: 220px;
+}
+.dropdown_1{
+    padding-top: 40px;
+    
+    padding-left: 460px;
+}
+button{
+    border: 2px  solid black;
+    width: 600px;
+    height: 30px;
+
+}
+.sel_2{
+    width: 300px;
+    font-size: 20px;
+}
+.foot{
+
+    background-color: rgb(153, 158, 163);
+}
+.foot1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foot1 div{
+    padding: 10px 71px;
+}
+.foot1 div ol li{
+   list-style: none;
+   padding-top: 20px;
+}
+.foot1 div ol li a{
+   text-decoration: none;
+   color: black;
+}
+.logo34{
+    padding-left: 128px;
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+.logo34  i{
+    padding-left: 15px;
+}
+.last{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+.last a{
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+}
+.last div{
+   margin-left: 207px;
+}
+.last div1{
+   margin-left: 760px;
+}
+.dropdown_1{
+    padding-top: 40px;
+    
+    padding-left: 460px;
+}
